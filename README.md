@@ -84,4 +84,4 @@ La aplicación cuenta con:
 
 ## Autor
 
-Berlinda García
+Romina Angel
